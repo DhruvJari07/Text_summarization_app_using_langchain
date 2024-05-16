@@ -1,0 +1,6 @@
+streamlit
+langchain
+tiktoken
+huggingface_hub
+python-dotenv
+transformers
